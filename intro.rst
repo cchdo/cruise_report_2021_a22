@@ -1,4 +1,4 @@
-GO-SHIP A20 2021 Hydrographic Program
+GO-SHIP A22 2021 Hydrographic Program
 ======================================
 
 Cruise Scientific Objectives
