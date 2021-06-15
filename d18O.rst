@@ -1,0 +1,34 @@
+Oxygen Stable Isotope Record (|d18O|)
+=====================================
+
+PI
+  * Kaustubh Thirumalai
+
+Cruise Participant
+  * Maya Prabhakar
+
+Intent
+------
+The creation of a seawater |d18O| record for studying recent and modern planktic foraminiferal |d18O| in the N. Atlantic to reconstruct past climate and create modern calibrations.
+
+Sampling
+--------
+At least two 5mL samples of water were collected at every station.
+Every station was sampled at 5m (surface, mixed layer) and at the chlorophyll maximum, which varies at each station.
+Opportunistic third and fourth samples were taken when Stephanie O’Daly’s underwater vision profiler photographs showed foraminifera at those depths at nearby stations.
+Samples were taken at the end of sampling by running vials under a weak stream from the bottle spigot until air bubbles were absent.
+The sample was then capped and inverted to check for air bubbles.
+Some samples were lost early in the cruise due to inexperience sampling from the bottles, resulting in air bubbles, causing the additional step of an inversion to be added.
+Samples were then parafilmed to prevent atmosphere and sample interaction.
+If, upon inspection, samples were deemed improperly parafilmed, additional parafilm was used to ensure a seal.
+Samples were labeled and stored in a temperature-controlled room.
+Depth, longitude, latitude, bottle number, date, sampler, and notes were recorded during sampling.
+
+Processing
+----------
+Samples will be processed on a Picarro isotopic water analyzer at the St. Petersburg Coastal and Marine Science Center.
+Methods and data will be published within the next three years.
+
+Acknowledgements
+----------------
+I would like to acknowledge the help of another student, Holly Olivarez, in sampling when I was unable. 
