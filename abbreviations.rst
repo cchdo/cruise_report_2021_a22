@@ -39,6 +39,9 @@ Abbreviations
   CTDO
     Conductivity Temperature Depth Oxygen
 
+  DFO-MPO
+    Fisheries and Oceans Canada, Pêches et Océans Canada
+
   DIC
     Dissolved Inorganic Carbon
 
@@ -132,8 +135,11 @@ Abbreviations
   UA
     University of Arizona
 
-  U Alaska
-    University of Alaska
+  UAF
+    University of Alaska Fairbanks
+
+  UArizona
+    The University of Arizona.
 
   UCI
     University of California Irvine
