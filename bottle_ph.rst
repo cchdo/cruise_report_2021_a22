@@ -3,6 +3,7 @@ Discrete pH Analyses (Total Scale)
 
 PI
   * Dr. Andrew Dickson (SIO)
+  * Dr. Frank Millero (RSMAS)
 Technicians 
   * Sidney Wayne (HPU)
   * Albert Ortiz (RSMAS)

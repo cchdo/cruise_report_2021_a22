@@ -2,7 +2,7 @@ Underway |pCO2|
 =========================================
 
 PIs
-  * Richard Feely (NOAA/PMEL)
+  * Simone Alin (NOAA/PMEL)
 Analysts
   * Andrew Collins (NOAA/PMEL)
 
